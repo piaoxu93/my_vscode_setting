@@ -18,6 +18,8 @@
     "editor.minimap.renderCharacters": true,
     "editor.dragAndDrop": true,
     "editor.emptySelectionClipboard": true,
+    "editor.detectIndentation": false,
+    "editor.multiCursorModifier": "ctrlCmd",
 
     "files.insertFinalNewline": true,
     "files.eol": "\n",
@@ -25,9 +27,10 @@
     "files.trimTrailingWhitespace": true,
     "files.autoGuessEncoding": true,
     "files.defaultLanguage": "zh-cn",
+    "files.autoSave": "off",
 
     "workbench.welcome.enabled": true,
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "vs-seti",
 
     "[cpp]": {
         "editor.quickSuggestions": false
@@ -39,5 +42,12 @@
     "window.openFoldersInNewWindow": "on",
     "window.zoomLevel": 0,
 
-    "extensions.autoUpdate": true
+    "extensions.autoUpdate": true,
+
+    "python.linting.enabledWithoutWorkspace": false,
+    "python.formatting.provider": "autopep8",
+    "window.menuBarVisibility": "default",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.formatting.formatOnSave": true
 }
