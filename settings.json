@@ -30,7 +30,7 @@
     "files.autoSave": "off",
 
     "workbench.welcome.enabled": true,
-    "workbench.iconTheme": "vs-seti",
+    "workbench.iconTheme": "vscode-icons",
 
     "[cpp]": {
         "editor.quickSuggestions": false
