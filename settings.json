@@ -20,6 +20,7 @@
     "editor.emptySelectionClipboard": true,
     "editor.detectIndentation": false,
     "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderIndentGuides": false,
 
     "files.insertFinalNewline": true,
     "files.eol": "\n",
@@ -41,12 +42,12 @@
 
     "window.openFoldersInNewWindow": "on",
     "window.zoomLevel": 0,
+    "window.menuBarVisibility": "default",
 
     "extensions.autoUpdate": true,
 
     "python.linting.enabledWithoutWorkspace": false,
     "python.formatting.provider": "autopep8",
-    "window.menuBarVisibility": "default",
     "python.linting.flake8Enabled": true,
     "python.linting.pylintEnabled": false,
     "python.formatting.formatOnSave": true
